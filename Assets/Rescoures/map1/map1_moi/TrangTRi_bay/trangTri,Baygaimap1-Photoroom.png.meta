@@ -1,0 +1,1176 @@
+fileFormatVersion: 2
+guid: fdaab502eaaf96045868b05d98957f0f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: trangTri,Baygaimap1-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 650
+        width: 50
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d879c3a4e63ddf842b267bcc56ef5746
+      internalID: 1638928880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trangTri,Baygaimap1-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 669
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8106047ef6cece448a9d153291d223a
+      internalID: -1227026255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trangTri,Baygaimap1-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 678
+        width: 18
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fed007f0a7a434f8aadb046280ac2b
+      internalID: -1976203124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trangTri,Baygaimap1-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 650
+        width: 24
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f648c3db70445479219a5acfe6b5a5
+      internalID: 2005736946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trangTri,Baygaimap1-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 606
+        width: 36
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac85bf8d9dc87f4b8fa359fadd08928
+      internalID: -1979548792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trangTri,Baygaimap1-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 585
+        width: 46
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0cc591003f36f44e8d0fdbaf786e6dc
+      internalID: -315652107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trangTri,Baygaimap1-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 547
+        width: 56
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ded89eed45951d41b62b4255e3ce04a
+      internalID: 744419232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trangTri,Baygaimap1-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 582
+        width: 106
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1142bd87df1346d498b83df3b9d8d042
+      internalID: 203606926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trangTri,Baygaimap1-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 528
+        width: 78
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4c062655885894f89d99271c57ab8d
+      internalID: -258455575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trangTri,Baygaimap1-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 529
+        width: 81
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbca5fb1725d11e43b0d924b3f8663c8
+      internalID: 541007672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trangTri,Baygaimap1-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 498
+        width: 56
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1210171a9267ef54eaafa8b36e52b051
+      internalID: 1413263668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trangTri,Baygaimap1-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 533
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366c61aa756b88944bedd0b15188632f
+      internalID: 1704496321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trangTri,Baygaimap1-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 528
+        width: 44
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c74d5c13c84afb44ad672e0c4ef62b7
+      internalID: 1361451139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trangTri,Baygaimap1-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 540
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d219145a64ee124683e2d838c9c7e56
+      internalID: -1193401363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trangTri,Baygaimap1-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 450
+        width: 60
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f01c53841eace4788467ad74ee1082
+      internalID: 214538222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trangTri,Baygaimap1-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 454
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4bad7f220ad3d14d809d94c5d2f0107
+      internalID: 1982330415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trangTri,Baygaimap1-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 454
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9d740848ab05e4997438f14e79caab
+      internalID: 1182612148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trangTri,Baygaimap1-Photoroom_30
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 450
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffa34129bccebf4982663d038a9f1c7
+      internalID: -1129972197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trangTri,Baygaimap1-Photoroom_31
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 450
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00bebf4fe9338d429febfe232e79d76
+      internalID: -1964450455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trangTri,Baygaimap1-Photoroom_33
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 78
+        width: 114
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28164f0c377c40b4d883e4d170305adc
+      internalID: 254203903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trangTri,Baygaimap1-Photoroom_34
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 200
+        width: 90
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836051acc8c91084a902a79d0d66e35c
+      internalID: -920327018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trangTri,Baygaimap1-Photoroom_35
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 318
+        width: 68
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1dd4c498d762bb4c813dabc79ec1e10
+      internalID: 849206357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trangTri,Baygaimap1-Photoroom_40
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 324
+        width: 83
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1d98b301741cc46965afc6086f38b2
+      internalID: -213146126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trangTri,Baygaimap1-Photoroom_41
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 324
+        width: 54
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e997960cdcdd22a4484152d54fffc60c
+      internalID: 1958788795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trangTri,Baygaimap1-Photoroom_42
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 324
+        width: 72
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e453d2187078a1e4da04583b3f6ade7c
+      internalID: 1980367139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trangTri,Baygaimap1-Photoroom_43
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 324
+        width: 54
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7599ef2b1d24740b56f6382bf81099
+      internalID: -2059994110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trangTri,Baygaimap1-Photoroom_44
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 324
+        width: 88
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0946967fb9c6d0a4489cca6e8ab8232c
+      internalID: 1918903271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trangTri,Baygaimap1-Photoroom_45
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 324
+        width: 85
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d654dcb62b229cd449374eb78947ff35
+      internalID: 976069495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trangTri,Baygaimap1-Photoroom_54
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 172
+        width: 144
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a375b483add2194597c541b77d71e30
+      internalID: 190094202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trangTri,Baygaimap1-Photoroom_86
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 172
+        width: 151
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640bc549a80f0c949897ed39fd37a4c2
+      internalID: -688498746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trangTri,Baygaimap1-Photoroom_119
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 169
+        width: 146
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15d1fe9b97492145b4cd40edebd0f6e
+      internalID: 360377905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trangTri,Baygaimap1-Photoroom_129
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 176
+        width: 129
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec7cc9c722f3ac4c89cfe907cce7c75
+      internalID: 953016496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trangTri,Baygaimap1-Photoroom_160
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 60
+        width: 162
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403082b2b5d77ce4ab3117e9fdf1ee8a
+      internalID: -1170288742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trangTri,Baygaimap1-Photoroom_166
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 67
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cbc211ecbd6f24ba113293b8de86e4
+      internalID: -1843433137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trangTri,Baygaimap1-Photoroom_167
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 48
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1b442e9531ca5438c41bf99e96cb5b
+      internalID: 942335279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trangTri,Baygaimap1-Photoroom_168
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 78
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5d22b1f210afd4faa2c2615b6bb8b3
+      internalID: 1849057857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trangTri,Baygaimap1-Photoroom_169
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 80
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5805c6557cd2b4f9a90f74d5e7f526
+      internalID: 633950843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trangTri,Baygaimap1-Photoroom_170
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 80
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587fb064e5e1f3748b540d9b829b4bee
+      internalID: 1291748871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trangTri,Baygaimap1-Photoroom_172
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 114
+        width: 57
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c0b2c2684fb0749bb972567f5cbf8c
+      internalID: 1363055747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trangTri,Baygaimap1-Photoroom_176
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 78
+        width: 57
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0bf265a9333864695dbcd2d4b76f62
+      internalID: 1962249806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      trangTri,Baygaimap1-Photoroom_0: 1161160317
+      trangTri,Baygaimap1-Photoroom_1: -1833996934
+      trangTri,Baygaimap1-Photoroom_10: -1979548792
+      trangTri,Baygaimap1-Photoroom_100: -1396769993
+      trangTri,Baygaimap1-Photoroom_101: -283286321
+      trangTri,Baygaimap1-Photoroom_102: -2048640080
+      trangTri,Baygaimap1-Photoroom_103: -1275193121
+      trangTri,Baygaimap1-Photoroom_104: -1898549634
+      trangTri,Baygaimap1-Photoroom_105: 829659161
+      trangTri,Baygaimap1-Photoroom_106: -2018289246
+      trangTri,Baygaimap1-Photoroom_107: 2113103945
+      trangTri,Baygaimap1-Photoroom_108: -1879275433
+      trangTri,Baygaimap1-Photoroom_109: 2124662253
+      trangTri,Baygaimap1-Photoroom_11: -315652107
+      trangTri,Baygaimap1-Photoroom_110: 1453053816
+      trangTri,Baygaimap1-Photoroom_111: 1388471231
+      trangTri,Baygaimap1-Photoroom_112: -1898158503
+      trangTri,Baygaimap1-Photoroom_113: 236305465
+      trangTri,Baygaimap1-Photoroom_114: 131215089
+      trangTri,Baygaimap1-Photoroom_115: -189913636
+      trangTri,Baygaimap1-Photoroom_116: 1560846603
+      trangTri,Baygaimap1-Photoroom_117: -746163984
+      trangTri,Baygaimap1-Photoroom_118: -137848289
+      trangTri,Baygaimap1-Photoroom_119: 360377905
+      trangTri,Baygaimap1-Photoroom_12: 744419232
+      trangTri,Baygaimap1-Photoroom_120: 1247353099
+      trangTri,Baygaimap1-Photoroom_121: -137381936
+      trangTri,Baygaimap1-Photoroom_122: 793176809
+      trangTri,Baygaimap1-Photoroom_123: -845478301
+      trangTri,Baygaimap1-Photoroom_124: -781272473
+      trangTri,Baygaimap1-Photoroom_125: 1406101367
+      trangTri,Baygaimap1-Photoroom_126: 1656595362
+      trangTri,Baygaimap1-Photoroom_127: 394265452
+      trangTri,Baygaimap1-Photoroom_128: 1146686497
+      trangTri,Baygaimap1-Photoroom_129: 953016496
+      trangTri,Baygaimap1-Photoroom_13: 203606926
+      trangTri,Baygaimap1-Photoroom_130: 1023046131
+      trangTri,Baygaimap1-Photoroom_131: 243205069
+      trangTri,Baygaimap1-Photoroom_132: -1990161271
+      trangTri,Baygaimap1-Photoroom_133: 1826997827
+      trangTri,Baygaimap1-Photoroom_134: -186941372
+      trangTri,Baygaimap1-Photoroom_135: 1147475691
+      trangTri,Baygaimap1-Photoroom_136: -1199837382
+      trangTri,Baygaimap1-Photoroom_137: 532327267
+      trangTri,Baygaimap1-Photoroom_138: 164514401
+      trangTri,Baygaimap1-Photoroom_139: -1659867974
+      trangTri,Baygaimap1-Photoroom_14: 568587057
+      trangTri,Baygaimap1-Photoroom_140: 920712323
+      trangTri,Baygaimap1-Photoroom_141: -1513401327
+      trangTri,Baygaimap1-Photoroom_142: -1432651295
+      trangTri,Baygaimap1-Photoroom_143: -97564375
+      trangTri,Baygaimap1-Photoroom_144: 1357245625
+      trangTri,Baygaimap1-Photoroom_145: -50713500
+      trangTri,Baygaimap1-Photoroom_146: -697612335
+      trangTri,Baygaimap1-Photoroom_147: -1246881028
+      trangTri,Baygaimap1-Photoroom_148: -118414880
+      trangTri,Baygaimap1-Photoroom_149: -241140506
+      trangTri,Baygaimap1-Photoroom_15: -258455575
+      trangTri,Baygaimap1-Photoroom_150: -1859870603
+      trangTri,Baygaimap1-Photoroom_151: -1390990912
+      trangTri,Baygaimap1-Photoroom_152: 791185827
+      trangTri,Baygaimap1-Photoroom_153: -837317263
+      trangTri,Baygaimap1-Photoroom_154: 1316437513
+      trangTri,Baygaimap1-Photoroom_155: -1778712825
+      trangTri,Baygaimap1-Photoroom_156: 1287494535
+      trangTri,Baygaimap1-Photoroom_157: -1963858386
+      trangTri,Baygaimap1-Photoroom_158: -706882342
+      trangTri,Baygaimap1-Photoroom_159: 2041918085
+      trangTri,Baygaimap1-Photoroom_16: 541007672
+      trangTri,Baygaimap1-Photoroom_160: -1170288742
+      trangTri,Baygaimap1-Photoroom_161: 2020939851
+      trangTri,Baygaimap1-Photoroom_162: 378793863
+      trangTri,Baygaimap1-Photoroom_163: 1399675538
+      trangTri,Baygaimap1-Photoroom_164: 631860346
+      trangTri,Baygaimap1-Photoroom_165: -1832381218
+      trangTri,Baygaimap1-Photoroom_166: -1843433137
+      trangTri,Baygaimap1-Photoroom_167: 942335279
+      trangTri,Baygaimap1-Photoroom_168: 1849057857
+      trangTri,Baygaimap1-Photoroom_169: 633950843
+      trangTri,Baygaimap1-Photoroom_17: 1534124283
+      trangTri,Baygaimap1-Photoroom_170: 1291748871
+      trangTri,Baygaimap1-Photoroom_171: 1176335280
+      trangTri,Baygaimap1-Photoroom_172: 1363055747
+      trangTri,Baygaimap1-Photoroom_173: -236777220
+      trangTri,Baygaimap1-Photoroom_174: 1264271384
+      trangTri,Baygaimap1-Photoroom_175: -1727688651
+      trangTri,Baygaimap1-Photoroom_176: 1962249806
+      trangTri,Baygaimap1-Photoroom_177: -1617378487
+      trangTri,Baygaimap1-Photoroom_178: -570500419
+      trangTri,Baygaimap1-Photoroom_179: -1222909953
+      trangTri,Baygaimap1-Photoroom_18: 1413263668
+      trangTri,Baygaimap1-Photoroom_180: -2144053718
+      trangTri,Baygaimap1-Photoroom_181: 725248984
+      trangTri,Baygaimap1-Photoroom_182: -518199552
+      trangTri,Baygaimap1-Photoroom_19: 1704496321
+      trangTri,Baygaimap1-Photoroom_2: 1889541891
+      trangTri,Baygaimap1-Photoroom_20: 1361451139
+      trangTri,Baygaimap1-Photoroom_21: 1946200696
+      trangTri,Baygaimap1-Photoroom_22: -1193401363
+      trangTri,Baygaimap1-Photoroom_23: 1190893417
+      trangTri,Baygaimap1-Photoroom_24: 648421961
+      trangTri,Baygaimap1-Photoroom_25: 214538222
+      trangTri,Baygaimap1-Photoroom_26: 944287401
+      trangTri,Baygaimap1-Photoroom_27: 1982330415
+      trangTri,Baygaimap1-Photoroom_28: -723197189
+      trangTri,Baygaimap1-Photoroom_29: 1182612148
+      trangTri,Baygaimap1-Photoroom_3: 1967640603
+      trangTri,Baygaimap1-Photoroom_30: -1129972197
+      trangTri,Baygaimap1-Photoroom_31: -1964450455
+      trangTri,Baygaimap1-Photoroom_32: -144910171
+      trangTri,Baygaimap1-Photoroom_33: 254203903
+      trangTri,Baygaimap1-Photoroom_34: -920327018
+      trangTri,Baygaimap1-Photoroom_35: 849206357
+      trangTri,Baygaimap1-Photoroom_36: -1442259871
+      trangTri,Baygaimap1-Photoroom_37: 87694735
+      trangTri,Baygaimap1-Photoroom_38: 1669057897
+      trangTri,Baygaimap1-Photoroom_39: 2131425169
+      trangTri,Baygaimap1-Photoroom_4: -2075654940
+      trangTri,Baygaimap1-Photoroom_40: -213146126
+      trangTri,Baygaimap1-Photoroom_41: 1958788795
+      trangTri,Baygaimap1-Photoroom_42: 1980367139
+      trangTri,Baygaimap1-Photoroom_43: -2059994110
+      trangTri,Baygaimap1-Photoroom_44: 1918903271
+      trangTri,Baygaimap1-Photoroom_45: 976069495
+      trangTri,Baygaimap1-Photoroom_46: -201383516
+      trangTri,Baygaimap1-Photoroom_47: -1572237849
+      trangTri,Baygaimap1-Photoroom_48: -2118358005
+      trangTri,Baygaimap1-Photoroom_49: 1234348263
+      trangTri,Baygaimap1-Photoroom_5: 1638928880
+      trangTri,Baygaimap1-Photoroom_50: 1387659919
+      trangTri,Baygaimap1-Photoroom_51: -174413868
+      trangTri,Baygaimap1-Photoroom_52: 387908569
+      trangTri,Baygaimap1-Photoroom_53: 2043005987
+      trangTri,Baygaimap1-Photoroom_54: 190094202
+      trangTri,Baygaimap1-Photoroom_55: 610776364
+      trangTri,Baygaimap1-Photoroom_56: -1048734478
+      trangTri,Baygaimap1-Photoroom_57: 105707224
+      trangTri,Baygaimap1-Photoroom_58: 1378399516
+      trangTri,Baygaimap1-Photoroom_59: -879358489
+      trangTri,Baygaimap1-Photoroom_6: 1125302702
+      trangTri,Baygaimap1-Photoroom_60: 246457278
+      trangTri,Baygaimap1-Photoroom_61: 1414365673
+      trangTri,Baygaimap1-Photoroom_62: 570953096
+      trangTri,Baygaimap1-Photoroom_63: 100761099
+      trangTri,Baygaimap1-Photoroom_64: -2071107405
+      trangTri,Baygaimap1-Photoroom_65: 1517161705
+      trangTri,Baygaimap1-Photoroom_66: 322331903
+      trangTri,Baygaimap1-Photoroom_67: -1720032739
+      trangTri,Baygaimap1-Photoroom_68: -2142269906
+      trangTri,Baygaimap1-Photoroom_69: 1806817633
+      trangTri,Baygaimap1-Photoroom_7: -1227026255
+      trangTri,Baygaimap1-Photoroom_70: 2146419933
+      trangTri,Baygaimap1-Photoroom_71: -1160298992
+      trangTri,Baygaimap1-Photoroom_72: -1027476986
+      trangTri,Baygaimap1-Photoroom_73: 1621934299
+      trangTri,Baygaimap1-Photoroom_74: -926922963
+      trangTri,Baygaimap1-Photoroom_75: -1421280969
+      trangTri,Baygaimap1-Photoroom_76: -548548657
+      trangTri,Baygaimap1-Photoroom_77: -1821337791
+      trangTri,Baygaimap1-Photoroom_78: -452146212
+      trangTri,Baygaimap1-Photoroom_79: 528578869
+      trangTri,Baygaimap1-Photoroom_8: -1976203124
+      trangTri,Baygaimap1-Photoroom_80: -260776668
+      trangTri,Baygaimap1-Photoroom_81: -482745562
+      trangTri,Baygaimap1-Photoroom_82: -892736926
+      trangTri,Baygaimap1-Photoroom_83: 1264559705
+      trangTri,Baygaimap1-Photoroom_84: -533539407
+      trangTri,Baygaimap1-Photoroom_85: 1617200370
+      trangTri,Baygaimap1-Photoroom_86: -688498746
+      trangTri,Baygaimap1-Photoroom_87: -109903959
+      trangTri,Baygaimap1-Photoroom_88: 1137676801
+      trangTri,Baygaimap1-Photoroom_89: -983211608
+      trangTri,Baygaimap1-Photoroom_9: 2005736946
+      trangTri,Baygaimap1-Photoroom_90: 301063437
+      trangTri,Baygaimap1-Photoroom_91: 1820656260
+      trangTri,Baygaimap1-Photoroom_92: -1496526431
+      trangTri,Baygaimap1-Photoroom_93: 207964435
+      trangTri,Baygaimap1-Photoroom_94: 1612339162
+      trangTri,Baygaimap1-Photoroom_95: 1297943378
+      trangTri,Baygaimap1-Photoroom_96: -2095904642
+      trangTri,Baygaimap1-Photoroom_97: 1094455111
+      trangTri,Baygaimap1-Photoroom_98: 2081897659
+      trangTri,Baygaimap1-Photoroom_99: 1874776245
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

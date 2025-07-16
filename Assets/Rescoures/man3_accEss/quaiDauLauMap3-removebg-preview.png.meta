@@ -1,0 +1,558 @@
+fileFormatVersion: 2
+guid: 3949dadb61167b14da4fdee9e4975e6a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: quaiDauLauMap3-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 287
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350d5f2000552404ea9f132114e79819
+      internalID: 1863042016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quaiDauLauMap3-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 289
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf2217282602a6438134eceea2456db
+      internalID: 789404363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quaiDauLauMap3-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 290
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2ab89fca02c9e49afe15c81eccbfd6
+      internalID: -1853845746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quaiDauLauMap3-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 290
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5073fe11d757ad741aaf8828c349bb31
+      internalID: -667562507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quaiDauLauMap3-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 288
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c24a62561f22214599f305ac83ce51f
+      internalID: 163601830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quaiDauLauMap3-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 289
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf000f66de662bf4fb2ff08d28f7deec
+      internalID: 1252864232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quaiDauLauMap3-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 101
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148b66b55f3035f499d5c63314f5c29e
+      internalID: 1254717324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quaiDauLauMap3-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 95
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c55188402c13ad4ba430ec2a427de7c
+      internalID: 714169961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quaiDauLauMap3-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 111
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3f59f68d1bd0d4ca93eac3cdf3edb1
+      internalID: -446329237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quaiDauLauMap3-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 111
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd939a1a88fa2a4ab1511324458b4d9
+      internalID: 1732460546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quaiDauLauMap3-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 111
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab5b6c65d733f3488f2f0ac6714a9fe
+      internalID: 620177999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quaiDauLauMap3-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 119
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e8ad31a0e1c624e91b7a66eb7e9fe9
+      internalID: 2014884886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quaiDauLauMap3-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 117
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76b76bd72d9fca4082f54e752e9d5cc
+      internalID: -367513780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quaiDauLauMap3-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 24
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae3ce255c29f3b48bc25a20ec1d11a4
+      internalID: -1459137917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quaiDauLauMap3-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 23
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39cffe7751fa374a856d321ec1846ec
+      internalID: 2001755250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quaiDauLauMap3-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 26
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd55dcc693e9a0468e7b046f3242a9b
+      internalID: 637916253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quaiDauLauMap3-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 29
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597650f692d569d4a9573554f2bc4088
+      internalID: -338754942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      quaiDauLauMap3-removebg-preview_0: -1459137917
+      quaiDauLauMap3-removebg-preview_1: 2001755250
+      quaiDauLauMap3-removebg-preview_10: -411869652
+      quaiDauLauMap3-removebg-preview_11: -987400456
+      quaiDauLauMap3-removebg-preview_12: 1497431399
+      quaiDauLauMap3-removebg-preview_13: 1292345427
+      quaiDauLauMap3-removebg-preview_14: 1582892044
+      quaiDauLauMap3-removebg-preview_15: 446057721
+      quaiDauLauMap3-removebg-preview_16: 380225958
+      quaiDauLauMap3-removebg-preview_17: -947885359
+      quaiDauLauMap3-removebg-preview_18: -1431856892
+      quaiDauLauMap3-removebg-preview_19: 667314978
+      quaiDauLauMap3-removebg-preview_2: 637916253
+      quaiDauLauMap3-removebg-preview_20: -1654279134
+      quaiDauLauMap3-removebg-preview_21: -1701891955
+      quaiDauLauMap3-removebg-preview_22: 1254717324
+      quaiDauLauMap3-removebg-preview_23: 714169961
+      quaiDauLauMap3-removebg-preview_24: -446329237
+      quaiDauLauMap3-removebg-preview_25: 1732460546
+      quaiDauLauMap3-removebg-preview_26: 620177999
+      quaiDauLauMap3-removebg-preview_27: -1262724588
+      quaiDauLauMap3-removebg-preview_28: 2014884886
+      quaiDauLauMap3-removebg-preview_29: -367513780
+      quaiDauLauMap3-removebg-preview_3: -338754942
+      quaiDauLauMap3-removebg-preview_30: -1011820928
+      quaiDauLauMap3-removebg-preview_31: 1895678382
+      quaiDauLauMap3-removebg-preview_32: 1956788904
+      quaiDauLauMap3-removebg-preview_33: 317395534
+      quaiDauLauMap3-removebg-preview_34: 549857654
+      quaiDauLauMap3-removebg-preview_4: 1863042016
+      quaiDauLauMap3-removebg-preview_5: 789404363
+      quaiDauLauMap3-removebg-preview_6: -1853845746
+      quaiDauLauMap3-removebg-preview_7: -667562507
+      quaiDauLauMap3-removebg-preview_8: 163601830
+      quaiDauLauMap3-removebg-preview_9: 1252864232
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

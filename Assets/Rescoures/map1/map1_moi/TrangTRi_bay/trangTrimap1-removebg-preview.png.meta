@@ -1,0 +1,681 @@
+fileFormatVersion: 2
+guid: 908db68fed103564197fc85d8aca00d9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: trangTrimap1-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 253
+        width: 78
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036a299d32e6ae742b4be26baeb5af41
+      internalID: 521122347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trangTrimap1-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 257
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3870dcd5f45451141b8230d6dd1c4da7
+      internalID: 392872952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trangTrimap1-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 271
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0149ff3789c03224d98ac916fa390839
+      internalID: -1078104418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trangTrimap1-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 258
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7210de4faa74d174195d3e067011ce28
+      internalID: 848506139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trangTrimap1-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 270
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59de0f22caa10854aa29f860f5955b86
+      internalID: -875102264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trangTrimap1-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 276
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c68bb945314164b8c8e242e8b52b90
+      internalID: -316319601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trangTrimap1-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 161
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48adb674c5945cb42aee6259a5f04a62
+      internalID: -1409155272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trangTrimap1-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 183
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c08c212b02c8b46a72b0fe96d29d1f
+      internalID: -858483733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trangTrimap1-removebg-preview_61
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 186
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb1b6fc2155b7846811fc8dace4a1bc
+      internalID: -1807683974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trangTrimap1-removebg-preview_80
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 113
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26012bc3680d91c4fb9bb6ae8fe79c45
+      internalID: 1631157295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trangTrimap1-removebg-preview_81
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 102
+        width: 72
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72e0485dd6fab442875f0cf4652e298
+      internalID: 332700093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trangTrimap1-removebg-preview_92
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 97
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0b35139a0439340a0221eb684f8d2e
+      internalID: 554315846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trangTrimap1-removebg-preview_111
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 40
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b15c661fba7535479809659241cc0de
+      internalID: -1044312726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trangTrimap1-removebg-preview_112
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 36
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5dd5405ed65d904da9333647ae7c2b3
+      internalID: -1134733767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trangTrimap1-removebg-preview_113
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 6
+        width: 55
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd0c3508f571d04abcbd1c4b4b5adbd
+      internalID: -1769169952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trangTrimap1-removebg-preview_117
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 37
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2d163c8359f414ca55c83f1521fdc6
+      internalID: 1023927227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trangTrimap1-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 272
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55180a316e5038247b8a91cb5a6430ae
+      internalID: -1824474519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trangTrimap1-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 293
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb5a838454109146b4c20b556c5136f
+      internalID: 990304155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      trangTrimap1-removebg-preview_0: -1824474519
+      trangTrimap1-removebg-preview_1: 990304155
+      trangTrimap1-removebg-preview_10: 1404866759
+      trangTrimap1-removebg-preview_100: 2031316400
+      trangTrimap1-removebg-preview_101: -429963649
+      trangTrimap1-removebg-preview_102: 1178002890
+      trangTrimap1-removebg-preview_103: -1928155105
+      trangTrimap1-removebg-preview_104: -175013078
+      trangTrimap1-removebg-preview_105: -882906116
+      trangTrimap1-removebg-preview_106: -618479837
+      trangTrimap1-removebg-preview_107: -1447246821
+      trangTrimap1-removebg-preview_108: 666070886
+      trangTrimap1-removebg-preview_109: 507247598
+      trangTrimap1-removebg-preview_11: -731215831
+      trangTrimap1-removebg-preview_110: 1405783303
+      trangTrimap1-removebg-preview_111: -1044312726
+      trangTrimap1-removebg-preview_112: -1134733767
+      trangTrimap1-removebg-preview_113: -1769169952
+      trangTrimap1-removebg-preview_114: -1318180474
+      trangTrimap1-removebg-preview_115: -1593617786
+      trangTrimap1-removebg-preview_116: 106054101
+      trangTrimap1-removebg-preview_117: 1023927227
+      trangTrimap1-removebg-preview_118: 1345330828
+      trangTrimap1-removebg-preview_119: 1557535894
+      trangTrimap1-removebg-preview_12: 427488010
+      trangTrimap1-removebg-preview_120: -1126810720
+      trangTrimap1-removebg-preview_121: -513478375
+      trangTrimap1-removebg-preview_122: -525323740
+      trangTrimap1-removebg-preview_123: -1434220112
+      trangTrimap1-removebg-preview_124: 834323232
+      trangTrimap1-removebg-preview_125: 1382808522
+      trangTrimap1-removebg-preview_126: -2020237580
+      trangTrimap1-removebg-preview_127: -676766379
+      trangTrimap1-removebg-preview_128: -562752321
+      trangTrimap1-removebg-preview_129: 1947863727
+      trangTrimap1-removebg-preview_13: 1158849564
+      trangTrimap1-removebg-preview_130: 319973824
+      trangTrimap1-removebg-preview_131: 53015432
+      trangTrimap1-removebg-preview_132: 1147149270
+      trangTrimap1-removebg-preview_133: 1783989845
+      trangTrimap1-removebg-preview_134: -1176240595
+      trangTrimap1-removebg-preview_135: 1684073687
+      trangTrimap1-removebg-preview_136: 443928940
+      trangTrimap1-removebg-preview_137: 1377741555
+      trangTrimap1-removebg-preview_138: -369580565
+      trangTrimap1-removebg-preview_139: -1607232912
+      trangTrimap1-removebg-preview_14: 1776174600
+      trangTrimap1-removebg-preview_140: 879781352
+      trangTrimap1-removebg-preview_141: -1290293428
+      trangTrimap1-removebg-preview_142: 1285377708
+      trangTrimap1-removebg-preview_143: 741593867
+      trangTrimap1-removebg-preview_144: -464610204
+      trangTrimap1-removebg-preview_145: -1329516643
+      trangTrimap1-removebg-preview_146: 539714877
+      trangTrimap1-removebg-preview_147: -1874803468
+      trangTrimap1-removebg-preview_148: 1718928507
+      trangTrimap1-removebg-preview_149: -766922313
+      trangTrimap1-removebg-preview_15: 1673005014
+      trangTrimap1-removebg-preview_16: -519369742
+      trangTrimap1-removebg-preview_17: -1860542990
+      trangTrimap1-removebg-preview_18: -2037747908
+      trangTrimap1-removebg-preview_19: 2110634096
+      trangTrimap1-removebg-preview_2: 1538683551
+      trangTrimap1-removebg-preview_20: 2139049049
+      trangTrimap1-removebg-preview_21: -324711340
+      trangTrimap1-removebg-preview_22: 1444828220
+      trangTrimap1-removebg-preview_23: -1594175264
+      trangTrimap1-removebg-preview_24: 521122347
+      trangTrimap1-removebg-preview_25: -572148496
+      trangTrimap1-removebg-preview_26: -901974220
+      trangTrimap1-removebg-preview_27: -652521496
+      trangTrimap1-removebg-preview_28: 392872952
+      trangTrimap1-removebg-preview_29: -1714247557
+      trangTrimap1-removebg-preview_3: 499097578
+      trangTrimap1-removebg-preview_30: -1530264269
+      trangTrimap1-removebg-preview_31: -752091571
+      trangTrimap1-removebg-preview_32: -1078104418
+      trangTrimap1-removebg-preview_33: 671787118
+      trangTrimap1-removebg-preview_34: 857374870
+      trangTrimap1-removebg-preview_35: -1721405848
+      trangTrimap1-removebg-preview_36: 848506139
+      trangTrimap1-removebg-preview_37: -1292185914
+      trangTrimap1-removebg-preview_38: -875102264
+      trangTrimap1-removebg-preview_39: -316319601
+      trangTrimap1-removebg-preview_4: 805144375
+      trangTrimap1-removebg-preview_40: 75615287
+      trangTrimap1-removebg-preview_41: 1263679516
+      trangTrimap1-removebg-preview_42: -1725780619
+      trangTrimap1-removebg-preview_43: -77205462
+      trangTrimap1-removebg-preview_44: -1118179886
+      trangTrimap1-removebg-preview_45: 2081206348
+      trangTrimap1-removebg-preview_46: -726676072
+      trangTrimap1-removebg-preview_47: 1718962971
+      trangTrimap1-removebg-preview_48: -1988483943
+      trangTrimap1-removebg-preview_49: -1150583151
+      trangTrimap1-removebg-preview_5: 371181629
+      trangTrimap1-removebg-preview_50: 1183608165
+      trangTrimap1-removebg-preview_51: 968543579
+      trangTrimap1-removebg-preview_52: -1409155272
+      trangTrimap1-removebg-preview_53: -858483733
+      trangTrimap1-removebg-preview_54: 2037849799
+      trangTrimap1-removebg-preview_55: -497019972
+      trangTrimap1-removebg-preview_56: -1498718168
+      trangTrimap1-removebg-preview_57: 1614903773
+      trangTrimap1-removebg-preview_58: 1255191071
+      trangTrimap1-removebg-preview_59: 1042805176
+      trangTrimap1-removebg-preview_6: -810542854
+      trangTrimap1-removebg-preview_60: -924715636
+      trangTrimap1-removebg-preview_61: -1807683974
+      trangTrimap1-removebg-preview_62: 907025779
+      trangTrimap1-removebg-preview_63: -398237285
+      trangTrimap1-removebg-preview_64: 897521140
+      trangTrimap1-removebg-preview_65: -529211291
+      trangTrimap1-removebg-preview_66: 1841021177
+      trangTrimap1-removebg-preview_67: 827956036
+      trangTrimap1-removebg-preview_68: 326197549
+      trangTrimap1-removebg-preview_69: 425527760
+      trangTrimap1-removebg-preview_7: -1901160535
+      trangTrimap1-removebg-preview_70: -2101982992
+      trangTrimap1-removebg-preview_71: 1734266721
+      trangTrimap1-removebg-preview_72: 1596829627
+      trangTrimap1-removebg-preview_73: 1997234208
+      trangTrimap1-removebg-preview_74: 1499108977
+      trangTrimap1-removebg-preview_75: 1523375930
+      trangTrimap1-removebg-preview_76: 262164717
+      trangTrimap1-removebg-preview_77: 2123830637
+      trangTrimap1-removebg-preview_78: -1045068351
+      trangTrimap1-removebg-preview_79: -525351291
+      trangTrimap1-removebg-preview_8: -1424868896
+      trangTrimap1-removebg-preview_80: 1631157295
+      trangTrimap1-removebg-preview_81: 332700093
+      trangTrimap1-removebg-preview_82: -701194510
+      trangTrimap1-removebg-preview_83: -2040926506
+      trangTrimap1-removebg-preview_84: 1936029395
+      trangTrimap1-removebg-preview_85: 280720833
+      trangTrimap1-removebg-preview_86: 591461533
+      trangTrimap1-removebg-preview_87: -1435815878
+      trangTrimap1-removebg-preview_88: -260598690
+      trangTrimap1-removebg-preview_89: -152335501
+      trangTrimap1-removebg-preview_9: 1651380760
+      trangTrimap1-removebg-preview_90: 748232529
+      trangTrimap1-removebg-preview_91: 1800407827
+      trangTrimap1-removebg-preview_92: 554315846
+      trangTrimap1-removebg-preview_93: 463516151
+      trangTrimap1-removebg-preview_94: -1163067328
+      trangTrimap1-removebg-preview_95: -1587641316
+      trangTrimap1-removebg-preview_96: -1961356683
+      trangTrimap1-removebg-preview_97: 1603567289
+      trangTrimap1-removebg-preview_98: 1222449802
+      trangTrimap1-removebg-preview_99: 886143711
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

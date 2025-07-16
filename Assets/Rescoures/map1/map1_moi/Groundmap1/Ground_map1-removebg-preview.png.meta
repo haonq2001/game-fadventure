@@ -1,0 +1,939 @@
+fileFormatVersion: 2
+guid: 5571b57f65e2ce64a9b68448531c499a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ground_map1-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 339
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70701e1b1fe6c9b43a2ba61990a933fe
+      internalID: -144222204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_map1-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 340
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4317971db65b64d98bea4d74ca200b
+      internalID: 997323425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_map1-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 340
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9073402f07863a044b6f6033af5cec04
+      internalID: 568878603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_map1-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 329
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b962f775b3f848f4081559ae0b57c3ad
+      internalID: 745066292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_map1-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 329
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bacedb2e9e7ad74a9b00ef478daaa1c
+      internalID: -609653596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_map1-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 340
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3932ac011e0a4a479d48b0f79dee99a
+      internalID: -1505210402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_map1-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 339
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d9b7ccaf1ed1245a5f7e89268a5573
+      internalID: 1940276522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_map1-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 346
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad21cb3260b5c3c4f84f632fdab6bd58
+      internalID: -825407966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_map1-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 342
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9383811df9f93144ca494f21aebb9348
+      internalID: -1289665684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_map1-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 277
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295dc7aeeb843e142802a8bd7580838a
+      internalID: -1867845671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_map1-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 277
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d45e8ace943f7347abce8f2959d96f5
+      internalID: 1926991169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_map1-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 277
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5eab0775fd582469047a389b779b68
+      internalID: 1974320711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_map1-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 266
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505ce6d6ed60ade4999a02f628622e22
+      internalID: 1339096960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_map1-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 266
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6a7f436517ae440836dec9031941ee
+      internalID: -1410317436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_map1-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 290
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34faefbdba1007449a093bab4bbdf5d6
+      internalID: 1360241349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_map1-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 289
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde2c945c188dec478f7e857fa9ddda8
+      internalID: 148302363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_map1-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 279
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302f6cb21aeb87e47b14160e5f7591c2
+      internalID: -1183920688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_map1-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 226
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82a45cc51b404349acb235915285d9c
+      internalID: 124349259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_map1-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 224
+        width: 57
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad2a3d2742373046b55ce0ae1dd5fa8
+      internalID: -1514961353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_map1-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 226
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a20f1b71c0cca46a6b1def8d115e9d
+      internalID: -198112840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_map1-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 218
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cad604c744d8e439d67335eef94071
+      internalID: 2110180211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_map1-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 217
+        width: 57
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d2159b65277cb4d8ce227f8f2e0f49
+      internalID: -1097610673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_map1-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 219
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791e8d7d34f061648850e589d90af569
+      internalID: -1570458275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_map1-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 231
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a1c9c8be061974091ea735b6c5b9a9
+      internalID: -1891491822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_map1-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 232
+        width: 53
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06df6a247aa5bf41aafefe1df86c075
+      internalID: -339523717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_map1-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 222
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382efd854b19c5d40a49db39b8ea6342
+      internalID: 1988047712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_map1-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 151
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92e93e38c8a3ab45aaae727954ee88b
+      internalID: 364330322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_map1-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 151
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7eafd956e327b54d95ce87e037dab2f
+      internalID: -858508235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_map1-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 151
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f456e119efa2f6147be4d85a74628e3d
+      internalID: -524419887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_map1-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 151
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f9656e3d90c644ba2df05421c0efe9
+      internalID: -265356715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_map1-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 151
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c65fbf733d541c4bb57eb9445e259a4
+      internalID: -2130083596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_map1-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 150
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4814eef6d6b2a941bdf1dc9fbd244a1
+      internalID: 575896415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_map1-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 150
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4712a17a8e732084a9032a84fd37c06b
+      internalID: 854917521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_map1-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 151
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d64816b431b1b9439d0b6c839a323bf
+      internalID: -1493346296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_map1-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 150
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbee6c423a2e47145bdffa69df7195f9
+      internalID: -1890126116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ground_map1-removebg-preview_0: -144222204
+      Ground_map1-removebg-preview_1: 997323425
+      Ground_map1-removebg-preview_10: 1926991169
+      Ground_map1-removebg-preview_11: 1974320711
+      Ground_map1-removebg-preview_12: 1339096960
+      Ground_map1-removebg-preview_13: -1410317436
+      Ground_map1-removebg-preview_14: 1360241349
+      Ground_map1-removebg-preview_15: 148302363
+      Ground_map1-removebg-preview_16: -1183920688
+      Ground_map1-removebg-preview_17: 124349259
+      Ground_map1-removebg-preview_18: -1514961353
+      Ground_map1-removebg-preview_19: -198112840
+      Ground_map1-removebg-preview_2: 568878603
+      Ground_map1-removebg-preview_20: 2110180211
+      Ground_map1-removebg-preview_21: -1097610673
+      Ground_map1-removebg-preview_22: -1570458275
+      Ground_map1-removebg-preview_23: -1891491822
+      Ground_map1-removebg-preview_24: -339523717
+      Ground_map1-removebg-preview_25: 1988047712
+      Ground_map1-removebg-preview_26: 364330322
+      Ground_map1-removebg-preview_27: -858508235
+      Ground_map1-removebg-preview_28: -524419887
+      Ground_map1-removebg-preview_29: -265356715
+      Ground_map1-removebg-preview_3: 745066292
+      Ground_map1-removebg-preview_30: -2130083596
+      Ground_map1-removebg-preview_31: 575896415
+      Ground_map1-removebg-preview_32: 854917521
+      Ground_map1-removebg-preview_33: -1493346296
+      Ground_map1-removebg-preview_34: -1890126116
+      Ground_map1-removebg-preview_35: -1940949872
+      Ground_map1-removebg-preview_36: -1555176082
+      Ground_map1-removebg-preview_37: -2044421814
+      Ground_map1-removebg-preview_38: -822178990
+      Ground_map1-removebg-preview_39: -22918760
+      Ground_map1-removebg-preview_4: -609653596
+      Ground_map1-removebg-preview_40: 674749525
+      Ground_map1-removebg-preview_41: -85697610
+      Ground_map1-removebg-preview_42: 358067866
+      Ground_map1-removebg-preview_43: 199260910
+      Ground_map1-removebg-preview_44: 1813615248
+      Ground_map1-removebg-preview_45: -1269169680
+      Ground_map1-removebg-preview_46: 490365158
+      Ground_map1-removebg-preview_47: 592324080
+      Ground_map1-removebg-preview_48: 327261139
+      Ground_map1-removebg-preview_49: 1545593321
+      Ground_map1-removebg-preview_5: -1505210402
+      Ground_map1-removebg-preview_50: -196358419
+      Ground_map1-removebg-preview_6: 1940276522
+      Ground_map1-removebg-preview_7: -825407966
+      Ground_map1-removebg-preview_8: -1289665684
+      Ground_map1-removebg-preview_9: -1867845671
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

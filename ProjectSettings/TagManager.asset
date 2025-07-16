@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Bullet
+  - bay
+  - Ene
+  - Enemy
+  - Sword
+  - ngonlua
+  - vukhi_enemy
+  - bulletpow
+  - quaman
+  - ground3
+  - ground2
+  - ground1
+  - candauvan
+  - ruongdamo
+  - skillpow
+  - boxmoruong
+  - ruongkhobau
+  - vatphamchiakhoa
+  - vatphamhoihp
+  - cauthang
+  - vatphamhoimp
+  - bossmap2
+  - boxtuongda
+  - quaman3
+  - thephongthu
+  - dungkhien
+  - PointA
+  - PointB
+  - winnhe
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - boxbos
+  - Water
+  - UI
+  - Ground
+  - Player
+  - sword
+  - trap
+  - enemy
+  - tang3
+  - contin
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
