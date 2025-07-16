@@ -107,3 +107,5 @@ firebase.json
 *.p12
 *.key
 *.pem
+Assets/Firebase/Plugins/x86_64/FirebaseCppApp-*.bundle
+Assets/Firebase/Plugins/x86_64/FirebaseCppApp-*.so
